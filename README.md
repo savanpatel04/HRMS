@@ -4,7 +4,7 @@ This repository contains a demonstration page for the HRMS (Human Resource Manag
 
 ## Live Demo
 
-View the project here: [HRMS Product Showcase]([https://username.github.io/hrms-project-page/](https://savanpatel04.github.io/HRMS/))
+View the project here: [HRMS Product Showcase]([https://username.github.io/hrms-project-page/](https://savanpatel04.github.io/HRMS/)
 
 ## Technologies
 
